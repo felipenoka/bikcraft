@@ -1,0 +1,12 @@
+.introducao-blog {background: #232323;}
+.blog-container {padding: 40px 0;}
+.blog-post:nth-of-type(odd) {background: #f29727;}
+.blog-post a {font-size: 28px;color: #232323;display: block;padding: 20px;text-transform: uppercase;}
+.blog-post a:after {content: "→";text-align: right;display: block;float: right;}
+.blog-post a:hover {color: #f29727;background: #232323;}
+.nav-blog {margin-top: 20px;}
+.nav-blog a {font-size: 14px;text-transform: uppercase;color: #f29727;}
+.nav-blog a {margin-right: 20px;}
+.introducao-geral {background: #232323;height: 120px !important;}
+.conteudo-geral {padding: 40px 0;}
+.conteudo-geral p {font-size: 18px;line-height: 25px;}
