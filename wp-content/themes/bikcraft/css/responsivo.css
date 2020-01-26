@@ -18,6 +18,9 @@
         top: -150px;
         margin-bottom: -56px;
     }
+    .produto_item_single {
+        padding-top: 20px !important;
+    }
     .produto_icone {
         padding: 41px 0;
     }
@@ -89,7 +92,7 @@
         margin-bottom: -68px;
     }
     .produto_item_single {
-        padding-top: 20px;
+        padding-top: 20px !important;
     }
     .produto_icone {
         padding: 41px 0;
